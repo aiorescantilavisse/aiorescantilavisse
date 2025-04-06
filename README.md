@@ -1,7 +1,8 @@
-## ♪♥
+## If you're patient enough to breathe and persistent enough to not turn away, you can practice anything.
+![72684f35206941083d4a11e54a3734c6](https://github.com/user-attachments/assets/653f781f-ae08-4f61-86ff-8eb86e20320f)
 
 <!--
-**E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aiorescantilavisse/aiorescantilavisse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
